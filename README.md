@@ -13,3 +13,9 @@ The proper steps are mentioned [here](https://github.com/Boltuzamaki/Custom-Obje
 
 ## Application in project
 This model for leopard detection has been made for [StaySafe](https://github.com/arnav-deep/StaySafe).
+
+## Model
+The whole system is implemented on Raspberry Pi with Pi NoIR Camera and GSM Module.
+
+## Developers
+This project has been developed by [Arnav Deep](https://github.com/arnav-deep) and [Manjot Singh](https://github.com/QuipPhoenix).
