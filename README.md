@@ -25,3 +25,8 @@ The whole system is implemented on Raspberry Pi with Pi NoIR Camera and GSM Modu
 
 ## Developers
 This project has been developed by [Arnav Deep](https://github.com/arnav-deep) and [Manjot Singh](https://github.com/QuipPhoenix).
+
+## License
+GNU GENERAL PUBLIC LICENSE Version 2
+
+Arnav Deep © November 2019. All rights reserved.
